@@ -4,4 +4,4 @@
 👩🏻‍🎓 Studied Software Engineering at the Batam State Polytechnics, Batam<br>
 💭 Currently learning Python ( Django ) & Java ( Spring )<br>
 
-![Haikals's gitHub stats](https://github-readme-stats.vercel.app/api?username=Haikalfkri)
+![Haikal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haikalfkri&show_icons=true&theme=radical)
