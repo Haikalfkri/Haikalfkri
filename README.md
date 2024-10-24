@@ -1,5 +1,9 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Software Engineering at the Batam State Polytechnics, Batam<br>🌱 I’m currently learning Python ( Django ) & Java ( Spring )<br>
+I am a passionate software engineer with a strong enthusiasm for technology and development. I have experience in both frontend and backend development, which has given me a well-rounded understanding of the entire software development lifecycle. Additionally, I have expertise in mobile application development, creating user-friendly apps that enhance user experience.
+
+I am proficient in several technology stacks, including Python and Django for backend development, as well as Laravel for building robust web applications. For mobile development, I use Flutter to create cross-platform applications. I also have experience with Java and Spring for enterprise-level applications.
+
+My database skills include working with PostgreSQL, MySQL, and MongoDB, allowing me to efficiently manage and manipulate data for various projects. I am committed to continuous learning and improvement, always seeking to expand my knowledge and skills in the ever-evolving field of software engineering.
 
 
 # 💻 Tech Stack:
